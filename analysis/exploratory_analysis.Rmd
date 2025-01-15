@@ -1,6 +1,6 @@
 ---
 title: "Exploratory analysis"
-author: "Julia"
+author: "Julia W."
 date: "`r Sys.Date()`"
 output:
   html_document:
